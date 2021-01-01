@@ -3,7 +3,7 @@
 
 ## What You Need to Get Started
 First, you can check out my code [here](https://github.com/jsreddy3/Skin-Cancer-Detection/blob/master/Skin_Cancer.ipynb).
-If you are looking for further instructions, specifics, or the file with the data I used for this paragraph, you can visit[this link](https://github.com/udacity/dermatologist-ai) and follow the recommendations and instructions on how this all works.
+If you are looking for further instructions, specifics, or the file with the data I used for this paragraph, you can visit [this link](https://github.com/udacity/dermatologist-ai) and follow the recommendations and instructions on how this all works.
 
 ## Prerequisite Files and Structures
 - First, you need a Jupyter Notebook. I do all my code through [Anaconda](https://www.anaconda.com).
