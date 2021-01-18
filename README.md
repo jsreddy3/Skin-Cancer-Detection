@@ -1,5 +1,5 @@
-## Skin-Cancer-Detection
-# This project predicts the presence of melanoma, nevus, or seborrheic keratosis. It also determines keratinocytic vs melanocytic disease based on pictures of a lesion.
+# Skin-Cancer-Detection
+## This project predicts the presence of melanoma, nevus, or seborrheic keratosis. It also determines keratinocytic vs melanocytic disease based on pictures of a lesion.
 
 ## What You Need to Get Started
 First, you can check out my code [here](https://github.com/jsreddy3/Skin-Cancer-Detection/blob/master/Skin_Cancer.ipynb).
